@@ -20,6 +20,10 @@ React Story Facebook là một tiện ích mở rộng (extension) dành cho tr�
 
 *(Giao diện nút "MORE" và bảng chọn emoji khi xem Story)*
 
+![](https://i.imgur.com/nkLEmFO.jpeg)
+
+
+*(Giao diện từ góc nhìn của người nhận)*
 ## Cách hoạt động
 
 Tiện ích này hoạt động bằng cách:
@@ -55,7 +59,6 @@ Tiện ích này hoạt động bằng cách:
 
 ## Lưu ý quan trọng / Cảnh báo
 
-* **Rủi ro:** Việc sử dụng các công cụ tương tác tự động với API không chính thức của Facebook có thể vi phạm Điều khoản Dịch vụ của họ. Hãy sử dụng tiện ích này với sự cân nhắc và tự chịu rủi ro.
 * **Thay đổi từ Facebook:** Facebook thường xuyên cập nhật giao diện và API của họ. Những thay đổi này có thể làm cho tiện ích ngừng hoạt động hoặc hoạt động không chính xác. Đặc biệt, các `selector` CSS dùng để tìm phần tử trên trang và `doc_id` dùng cho API GraphQL có thể cần được cập nhật theo thời gian.
 * **Bảo mật:** Tiện ích này cần lấy `user_id` và `fb_dtsg` từ trang Facebook của bạn để hoạt động. Mặc dù mã nguồn được cung cấp để bạn kiểm tra, hãy luôn cẩn trọng khi cài đặt tiện ích từ các nguồn không xác định.
 
