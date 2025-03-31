@@ -16,6 +16,8 @@ React Story Facebook là một tiện ích mở rộng (extension) dành cho tr�
 ## Ảnh chụp màn hình
 
 ![](https://i.imgur.com/5QIHXp0.png)
+
+
 *(Giao diện nút "MORE" và bảng chọn emoji khi xem Story)*
 
 ## Cách hoạt động
